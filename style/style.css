@@ -891,7 +891,9 @@ button.header_button_inner:hover {
 
 /*QUESTIONS*/
 
-.questions {}
+.questions {
+    margin-bottom: 120px;
+}
 
 .questions_container {
     width: 1280px;
@@ -900,7 +902,7 @@ button.header_button_inner:hover {
     background: rgb(21, 34, 59);
     background: linear-gradient(97deg, rgba(21, 34, 59, 0.01) 0%, rgba(25, 50, 60, 1) 0%, rgba(44, 136, 66, 1) 100%, rgba(51, 169, 68, 0.01) 100%);
     border-radius: 20px;
-  }
+}
 
 .questions_inner {
     display: flex;
@@ -935,7 +937,7 @@ button.header_button_inner:hover {
 
 
 
-.question_buttons{
+.question_buttons {
     width: 200px;
     height: 70px;
     background: var(--color3);
@@ -947,13 +949,13 @@ button.header_button_inner:hover {
     justify-content: center;
 }
 
-.question_buttons:hover{
+.question_buttons:hover {
     background: var(--color4);
- }
+}
 
-button.questions_button{
-border: none;
-background: transparent;
+button.questions_button {
+    border: none;
+    background: transparent;
 }
 
 
@@ -967,7 +969,7 @@ background: transparent;
 }
 
 .questions_button_text {
-     font-family: var(--font1);
+    font-family: var(--font1);
     font-weight: 500;
     font-size: 18px;
     line-height: 22px;
@@ -987,15 +989,84 @@ background: transparent;
 
 .questions_vectors_block1 {
     display: flex;
-  padding-left: 40px;
+    padding-left: 40px;
 }
 
-.questions_vector1 {
+.questions_vector1 {}
 
-}
-
-.questions_vector2 {
-
-}
+.questions_vector2 {}
 
 .questions_vectors_block2 {}
+
+/*GRAPH*/
+.graph {
+    margin-bottom: 120px;
+}
+
+.graph_container {
+    width: 1280px;
+    height: 318px;
+    margin: 0 auto;
+}
+
+.graph_inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.graph_info {}
+
+.graph_title {
+    font-family: var(--font1);
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 60px;
+    color: var(--color2);
+    text-transform: uppercase;
+    margin-bottom: 56px;
+}
+
+.graph_button {
+    width: 233px;
+    height: 70px;
+    border-radius: 12px;
+    border: 1px solid var(--color2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.graph_button:hover{
+    background: var(--color4);
+}
+
+.graph_button_inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.graph_button button {
+    display: block;
+    height: 100%;
+    width: 100%;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.graph_button_text {
+    font-family: var(--font1);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    margin-right: 10px;
+}
+
+.graph_icon {
+    width: 24px;
+    height: 24px;
+}
+
+.graph_img {}
