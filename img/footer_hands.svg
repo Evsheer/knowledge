@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.5898 20.202L12.2556 20.7346C12.8049 21.1741 13.605 21.0933 14.0554 20.5528V20.5528C14.5187 19.9968 14.4351 19.1688 13.8699 18.7166L11.5898 16.8926" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M3.64746 11.5974C3.75778 11.9284 4.5741 13.1198 5.63312 13.914" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="square"/>
+<rect x="1.88385" y="10.089" width="9.3402" height="2.05944" rx="1.02972" transform="rotate(-44.4721 1.88385 10.089)" stroke="#D2D2D2" stroke-width="1.25"/>
+<rect x="15.916" y="2.88388" width="9.3402" height="2.05944" rx="1.02972" transform="rotate(45 15.916 2.88388)" stroke="#D2D2D2" stroke-width="1.25"/>
+<path d="M14.2374 4.97852L9.63027 9.58562C9.06752 10.1484 9.06752 11.0608 9.63027 11.6235V11.6235C10.1722 12.1654 11.0435 12.1883 11.6132 11.6756L13.9064 9.61173L18.2087 13.5043L19.9481 15.078C20.4421 15.525 20.4614 16.2945 19.9903 16.7656V16.7656C19.5492 17.2067 18.8391 17.2221 18.3793 16.8006L15.2302 13.914" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="square"/>
+<path d="M20.1948 10.6045C20.3051 11.0458 20.1286 12.2592 18.54 13.583" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M18.5403 16.8924L18.8381 17.1901C19.2338 17.5858 19.2687 18.2158 18.9191 18.6528V18.6528C18.5311 19.1378 17.8184 19.2048 17.3468 18.8006L13.5762 15.5686" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M11.5898 16.8924L15.5469 20.0015C15.9327 20.3046 16.4841 20.2717 16.8311 19.9248V19.9248C17.2212 19.5346 17.2074 18.8978 16.8006 18.525L13.5755 15.5686" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="round"/>
+<path d="M10.2666 4.97863C10.8182 4.86831 11.5904 4.97863 12.9142 6.3024" stroke="#D2D2D2" stroke-width="1.25" stroke-linecap="square"/>
+<rect x="5.73502" y="14.1358" width="1.39755" height="1.74908" rx="0.698775" transform="rotate(43.5019 5.73502 14.1358)" stroke="#D2D2D2" stroke-width="1.25"/>
+<rect x="10.7047" y="18.4143" width="1.39755" height="2.23775" rx="0.698775" transform="rotate(43.5019 10.7047 18.4143)" stroke="#D2D2D2" stroke-width="1.25"/>
+<rect x="7.64225" y="15.4593" width="1.39755" height="2.59686" rx="0.698775" transform="rotate(43.5019 7.64225 15.4593)" stroke="#D2D2D2" stroke-width="1.25"/>
+<rect x="9.08739" y="16.8912" width="1.24047" height="2.60639" rx="0.620233" transform="rotate(43.5019 9.08739 16.8912)" stroke="#D2D2D2" stroke-width="1.24047"/>
+</svg>
